@@ -1,0 +1,28 @@
+API request consists of 4 parts
+1. Endpoint
+2. Method
+3.Headers
+4. Data
+
+Request methods can be 2 types:
+    1.QUERY PARAMETER parameter in request e.g URL/delete.php/id=1000
+
+    2.body/Payload e.g
+    POST body:
+    {
+        "id":1000
+    }
+======================================================================
+Request methods are based on CRUD - Create, Read, Update, Delete
+Common request methods are 4
+
+    POST- CREATE A NEW object in an application
+    GET - obtain information about EXISting WIthin an application
+    DELETE
+    PUT - Delete an EXISting object in an application
+======================================================================
+Rest-Assured Pattern
+RestAssured follows Rest-Assured Pattern
+Given-  specify pre-requisites
+When-   Describe action to take
+Then-   Describe the expected result
