@@ -11,7 +11,7 @@ _________________________________
 
 
 
-Testcases are
+Manual Testcases are stored in Excel file
 
   POST
   GET
