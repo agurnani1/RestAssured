@@ -1,7 +1,7 @@
 API request consists of 4 parts
 1. Endpoint
 2. Method
-3.Headers
+3. Headers
 4. Data
 
 Request methods can be 2 types:
